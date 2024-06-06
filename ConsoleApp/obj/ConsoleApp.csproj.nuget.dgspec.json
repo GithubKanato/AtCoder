@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\detec\\source\\repos\\AtCoder\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {}
+    "C:\\Users\\detec\\source\\repos\\github_AtCoder\\ConsoleApp\\ConsoleApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\detec\\source\\repos\\AtCoder\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
+    "C:\\Users\\detec\\source\\repos\\github_AtCoder\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\detec\\source\\repos\\AtCoder\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\detec\\source\\repos\\github_AtCoder\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "c:\\Users\\detec\\source\\repos\\AtCoder\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\detec\\source\\repos\\github_AtCoder\\ConsoleApp\\ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\detec\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\detec\\source\\repos\\AtCoder\\ConsoleApp\\ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\detec\\source\\repos\\github_AtCoder\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
